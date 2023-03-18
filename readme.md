@@ -1,4 +1,4 @@
-# ENPM673 - Pperception for Autonomous Robots
+# ENPM673 - Perception for Autonomous Robots
 
 ## Question 
 * Find the covariance matrix and using the covariance matrix find the magintude and direction of the surface normal
